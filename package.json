@@ -47,11 +47,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Alqama-Shahzad/game-website.git"
+    "url": "https://github.com/Alqama-Shahzad/nova-game-website.git"
   },
-  "homepage": "https://github.com/Alqama-Shahzad/game-website#readme",
+  "homepage": "https://github.com/Alqama-Shahzad/nova-game-website#readme",
   "bugs": {
-    "url": "https://github.com/Alqama-Shahzad/game-website/issues",
+    "url": "https://github.com/Alqama-Shahzad/nova-game-website/issues",
     "email": "Alqamarex@gmail.com"
   },
   "dependencies": {
