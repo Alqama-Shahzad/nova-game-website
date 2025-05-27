@@ -4,12 +4,12 @@
 
 ![Nova - 3D Animated Gaming Website](/.github/images/img_main.png "Nova - 3D Animated Gaming Website")
 
-[![GitHub license](https://flat.badgen.net/github/license/your-username/game-website?icon=github&color=black&scale=1.01)](https://github.com/your-username/game-website/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/your-username/game-website/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/your-username/game-website?icon=github&color=black&scale=1.01)](https://github.com/your-username/game-website/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/your-username/game-website?icon=github&color=black&scale=1.01)](https://github.com/your-username/game-website/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/your-username/game-website?icon=github&color=black&scale=1.01)](https://github.com/your-username/game-website/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/your-username/game-website?icon=github&color=black&scale=1.01)](https://github.com/your-username/game-website/pulls "GitHub pull requests")
+[![GitHub license](https://flat.badgen.net/github/license/Alqama-Shahzad/game-website?icon=github&color=black&scale=1.01)](https://github.com/Alqama-Shahzad/game-website/blob/main/LICENSE "GitHub license")
+[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/Alqama-Shahzad/game-website/commits/main "Maintenance")
+[![GitHub branches](https://flat.badgen.net/github/branches/Alqama-Shahzad/game-website?icon=github&color=black&scale=1.01)](https://github.com/Alqama-Shahzad/game-website/branches "GitHub branches")
+[![Github commits](https://flat.badgen.net/github/commits/Alqama-Shahzad/game-website?icon=github&color=black&scale=1.01)](https://github.com/Alqama-Shahzad/game-website/commits "Github commits")
+[![GitHub issues](https://flat.badgen.net/github/issues/Alqama-Shahzad/game-website?icon=github&color=black&scale=1.01)](https://github.com/Alqama-Shahzad/game-website/issues "GitHub issues")
+[![GitHub pull requests](https://flat.badgen.net/github/prs/Alqama-Shahzad/game-website?icon=github&color=black&scale=1.01)](https://github.com/Alqama-Shahzad/game-website/pulls "GitHub pull requests")
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8e15a161-8615-4046-9869-4af8feb3c221/deploy-status)](https://nova-game.netlify.app/ "Netlify Status")
 
 <!-- Table of Contents -->
@@ -171,6 +171,12 @@ Happy coding, and feel free to share your thoughts and improvements!
 ## :star: Give A Star
 
 You can also give this repository a star to show more people and they can use this repository.
+
+## :bust_in_silhouette: About the Author
+
+This project was created by [Alqama Shahzad](https://github.com/Alqama-Shahzad), a passionate frontend and WordPress developer with over a year of experience. I enjoy creating websites using HTML, CSS, JavaScript, and React.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/alqama-shahzad-881a06185/).
 
 <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
